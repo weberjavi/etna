@@ -1,7 +1,9 @@
 ## Patch Variables:
 
 * __bubling_sphere_image__ ```Texture```
+* __camearX__ ```Number```
 * __cameraTrack__ ```Number```
+* __camereaTilt__ ```Number```
 * __height__ ```Number```
 * __rectHeight__ ```Number```
 * __rectWidth__ ```Number```
